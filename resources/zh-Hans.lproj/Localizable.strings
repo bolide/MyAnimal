@@ -1,0 +1,9 @@
+"appback" = "返回";
+"title" = "动物的声音";
+"all_animals" = "听听动物怎么叫";
+"guess_animals" = "听声猜动物";
+"animal_match" = "动物配对";
+"all_the_animals" = "全部动物";
+"to_rate" = "评价打分";
+"gametime" = "时间:%.1f秒";
+"gameround" = "答对:%{count}场";

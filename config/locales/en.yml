@@ -1,0 +1,10 @@
+en:
+  appback: "return"
+  title: "Animal sounds"
+  all_animals: "Animal sounds"
+  guess_animals: "Guess animals"
+  animal_match: "Animal Match"
+  all_the_animals: "All the animals"
+  to_rate: "to rate"
+  gametime: "time:%.1fs"
+  gameround: "round:%{count}"
